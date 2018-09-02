@@ -1,3 +1,3 @@
 # hello-world
 hello world description
-this longer descripting made in the branch 
+This is a longer description made in the branch. 
